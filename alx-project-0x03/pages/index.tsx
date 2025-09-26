@@ -1,9 +1,7 @@
-import Layout from "@/components/layouts/layout";
-
 export default function Home() {
   return (
-    <>
-      <Layout />
-    </>
+    <div>
+      <h1>Welcome to Splash App</h1>
+    </div>
   );
 }
